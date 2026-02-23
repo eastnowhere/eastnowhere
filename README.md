@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="80%" src="./assets/1.gif" alt="Cyberface animation" />
+<img width="90%" src="./assets/1.gif" alt="Cyberface animation" />
 
 ---
 

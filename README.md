@@ -1,0 +1,28 @@
+<div align="center">
+
+<img width="80%" src="./assets/1.gif" alt="Cyberface animation" />
+
+---
+
+```
+
+██████╗░███████╗██╗░░██╗░█████╗░██╗░░██╗██╗░░░██╗██████╗░███╗░░██╗
+██╔══██╗╚════██║██║░░██║██╔══██╗██║░██╔╝██║░░░██║██╔══██╗████╗░██║
+██████╔╝░░███╔═╝███████║███████║█████═╝░██║░░░██║██████╔╝██╔██╗██║
+██╔══██╗██╔══╝░░██╔══██║██╔══██║██╔═██╗░██║░░░██║██╔══██╗██║╚████║
+██║░░██║███████╗██║░░██║██║░░██║██║░╚██╗╚██████╔╝██║░░██║██║░╚███║
+╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝
+```
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PanagiotisDrakatos/PanagiotisDrakatos/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
